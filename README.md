@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @regina-humu
-- 🌱 I’m currently learning as much as I can about human behavior change!
+- 🌱 I’m currently learning as much as I can about human behavioral change!
 
 <!---
 regina-humu/regina-humu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
